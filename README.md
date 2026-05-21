@@ -1,0 +1,1 @@
+This folder contains the data in the form of a ".txt" file that has not been filtered. This data is used for the article named "Automated Aquatic Olfactometer for Behavioural Monitoring and Hidden Markov Model Analysis." 

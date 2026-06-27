@@ -1,1 +1,1 @@
-
+Two Python programs have been created: the main_markov_chain code is used to compute the coefficients of Markov chains, and the second script, fig, is used to generate the different probability plots.
